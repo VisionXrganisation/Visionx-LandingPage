@@ -17,7 +17,7 @@ export default function HomePage() {
       
       {/* Hero Section */}
       <section className="text-center py-32 px-5 bg-gradient-to-b from-gray-900 to-black">
-        <h2 className="text-5xl font-extrabold"> IT Solution & Building Powerful Software Products</h2>
+        <h2 className="text-5xl font-extrabold"> Building Powerful Software Products</h2>
         <p className="text-gray-400 mt-4 max-w-2xl mx-auto text-lg">We deliver top-tier software solutions that drive business success.</p>
         <Button className="mt-6 bg-purple-500 hover:bg-purple-600 px-6 py-3 text-lg rounded-full shadow-lg transition-all duration-300">Get Started</Button>
       </section>
